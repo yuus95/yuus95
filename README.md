@@ -1,7 +1,7 @@
 #Stack  
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-FD393B.svg?&style=for-the-badge&logo=html&logoColor=white"/>
 <img alt="JAVASCRIPT" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
-<img alt="JAVA" src ="https://img.shields.io/badge/Java-#007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="java" src ="https://img.shields.io/badge/Java-#007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 
 - 👋 Hi, I’m @yuus95
 - 👀 I’m interested in ...
