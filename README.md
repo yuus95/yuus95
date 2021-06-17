@@ -1,19 +1,51 @@
-# Stack  
+# Hi There !
 
-<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-FD393B.svg?&style=for-the-badge&logo=html&logoColor=white"/>
-<img alt="JAVASCRIPT" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-<img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
-<img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
-<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
-<img alt="Amazon AWS" src ="https://img.shields.io/badge/AmazonAWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img alt="SubVersion" src ="https://img.shields.io/badge/SubVersion-809CC9.svg?&style=for-the-badge&logo=SubVersion&logoColor=white"/>
+<!---
+flex 시작
+--->
 
-- 👋 Hi, I’m @yuus95
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+<div style="display: flex; justify-content: center;" >
+
+<!---
+첫번쨰 div
+--->
+<div style="margin-right: 10px;">
+
+<div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuus95&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+</div>
+
+<div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuus95)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+</div>
+
+
+
+<!---
+REPO
+--->
+<div style="display: flex;justify-content: left;margin-left: 30px">
+
+<div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuus95&repo=TIL)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+</div>
+
+---
+- 경력 
+
+
+---
 
 <!---
 yuus95/yuus95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
