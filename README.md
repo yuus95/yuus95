@@ -1,6 +1,6 @@
 # Hi There !
 
-- 현재 JPA공부중인 서버개발자 김유신입니다.
+
 - [PortFolio](https://www.notion.so/Yushin-Kim-2b96321d998c40348b165de0bd089295)
 <!---
 flex 시작
