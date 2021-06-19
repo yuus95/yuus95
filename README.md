@@ -1,5 +1,6 @@
 # Hi There !
 
+- [포트폴리오](https://www.notion.so/Yushin-Kim-2b96321d998c40348b165de0bd089295)
 <!---
 flex 시작
 --->
@@ -34,18 +35,18 @@ REPO
 --->
 <div style="display: flex;justify-content: left;margin-left: 30px">
 
-<div>
+<!-- <div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuus95&repo=TIL)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+</div> -->
 
 </div>
 
----
+<!-- ---
 - 경력 
 
 
----
+--- -->
 
 <!---
 yuus95/yuus95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
